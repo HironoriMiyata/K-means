@@ -1,1 +1,1 @@
-# K-means
+# K-means風　アルゴリズム　
